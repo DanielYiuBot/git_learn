@@ -3,3 +3,4 @@ second line
 thrid line
 feature/b
 conflict feature/b
+conflict_main
